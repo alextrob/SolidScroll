@@ -393,12 +393,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = Sources/LibraScrollDemo/SolidScrollDemo.entitlements;
+				CODE_SIGN_ENTITLEMENTS = Sources/SolidScrollDemo/SolidScrollDemo.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Sources/SolidScrollDemo/Preview Content\"";
-				DEVELOPMENT_TEAM = UP8HTB5ZA2;
+				DEVELOPMENT_TEAM = 2KX3RV5NUD;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -414,7 +414,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.imaginariumworks.SolidScrollDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = me.rbnsn.SolidScrollDemo;
 				PRODUCT_NAME = "SolidScroll Demo";
 				SDKROOT = iphoneos;
 				SUPPORTS_MACCATALYST = YES;
@@ -429,12 +429,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = Sources/LibraScrollDemo/SolidScrollDemo.entitlements;
+				CODE_SIGN_ENTITLEMENTS = Sources/SolidScrollDemo/SolidScrollDemo.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Sources/SolidScrollDemo/Preview Content\"";
-				DEVELOPMENT_TEAM = UP8HTB5ZA2;
+				DEVELOPMENT_TEAM = 2KX3RV5NUD;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -450,7 +450,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.imaginariumworks.SolidScrollDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = me.rbnsn.SolidScrollDemo;
 				PRODUCT_NAME = "SolidScroll Demo";
 				SDKROOT = iphoneos;
 				SUPPORTS_MACCATALYST = YES;
